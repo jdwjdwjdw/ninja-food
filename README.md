@@ -1,0 +1,1 @@
+Food site utilizing [Tailwind CSS](https://tailwindcss.com/). Created while following this [Tailwind CSS Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) by The Net Ninja on YouTube.
